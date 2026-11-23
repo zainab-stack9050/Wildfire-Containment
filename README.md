@@ -157,7 +157,7 @@ More detail and the modelling decisions are in [`docs/STAGE1_NOTES.md`](docs/STA
 - [x] **Stage 3 (Basma):** MCTS (UCT) agent and optimality gap against value iteration
 - [x] **Stage 4 (Tayyba):** experiment runner, rollout-budget sweeps, scalability
 - [x] **Stage 5 (Zainab, Basma):** 5a robustness experiments; 5b failure-case analysis
-- [ ] **Stage 6 (Basma, Zainab):** 6a statistics and plots; 6b report and presentation
+- [x] **Stage 6 (Basma, Zainab):** 6a statistics and plots; 6b report and presentation
 
 ## Team
 
